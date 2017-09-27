@@ -1,2 +1,2 @@
 # python
-Repository to stud Python
+Repository to study Python
